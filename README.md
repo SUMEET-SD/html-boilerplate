@@ -1,7 +1,8 @@
 # html-boilerplate
 
 Some useful info on how to create and connect the repo properly
-```
+
+```sh
 echo "# html-boilerplate" >> README.md
 git init
 git add README.md
